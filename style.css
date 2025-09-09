@@ -1,0 +1,85 @@
+html {
+  background-color: #2e2e2e;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif, Courier,
+    monospace;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+#hero {
+  text-align: center;
+  background-color: rgb(47, 49, 49);
+}
+
+.header {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: rgb(54, 54, 54);
+  height: 50px;
+  margin-bottom: 30px;
+  padding: 5px;
+}
+.intro {
+  background-color: rgb(47, 49, 49);
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#resume {
+  text-align: center;
+  background-color: rgb(47, 49, 49);
+}
+
+h2 {
+  display: inline-flex;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+h3 {
+  display: inline-flex;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#hero img {
+  height: 100px;
+  width: 95px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin-bottom: 15px;
+}
+
+#work {
+  text-align: center;
+  background-color: rgb(47, 49, 49);
+}
+
+.project-image {
+  display: inline-flex;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.tech-stack img {
+  padding: 0 15px 10px 15px;
+}
+
+#footer {
+  text-align: center;
+  background-color: rgb(202, 122, 57);
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
